@@ -56,7 +56,7 @@ export default function NavBar(props) {
               Current Location
             </button>
             <a
-              href="https://github.com/k-elixir/weather-react"
+              href="https://github.com/k-elixir/weather-react-homework"
               className="fixed-bottom m-4"
             >
               Open source code by Kimia Rafi
