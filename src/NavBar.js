@@ -16,7 +16,7 @@ export default function NavBar(props) {
         </button>
         <div
           className="offcanvas offcanvas-start text-bg-dark"
-          tabindex="-1"
+          tabIndex="-1"
           id="offcanvasDarkNavbar"
           aria-labelledby="offcanvasDarkNavbarLabel"
         >

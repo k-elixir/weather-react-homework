@@ -2,7 +2,6 @@ import React from "react";
 import Day from "./Day";
 
 export default function ForecastDay({ value }) {
-  console.log(value);
   return (
     <div className="row pb-5">
       {value.map(function (dataResponses, index) {
